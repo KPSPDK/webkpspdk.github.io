@@ -1,0 +1,50 @@
+.navbar{
+    display: flex !important;
+    
+  }
+  .nav-btn{
+    margin-left: auto;
+  }
+  .links {
+    margin-right: 10px;
+    color: #5278b1 !important;
+  }
+  .links:hover {
+    color:#8fb0e2 !important;
+  }
+  .navbar-light {
+  color: white !important;
+  }
+  .navbar-brand {
+    color: white !important;
+    }
+    .map{
+        margin-right: 10px;
+    }
+    .titles{
+        width: 140px;
+        float: left;
+    }
+    
+    * {
+        box-sizing: border-box;
+     }
+
+    .tel{
+        
+        color: #5278b1 !important;
+    }
+    .tel:hover{
+        color:#8fb0e2 !important;
+    }
+    .footer{
+    display: flex !important;
+      background-color: #343a40	!important;
+      padding: 15px;
+  }
+  .empty{
+      margin-right: auto;
+  }
+  .tel{
+    color: #5278b1 !important;
+}

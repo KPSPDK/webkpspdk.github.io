@@ -1,0 +1,39 @@
+.navbar{
+    display: flex !important;
+    
+  }
+  .nav-btn{
+    margin-left: auto;
+  }
+  .links {
+    margin-right: 10px;
+    color: #5278b1 !important;
+  }
+  .links:hover {
+    color:#8fb0e2 !important;
+  }
+  .navbar-light {
+  color: white !important;
+  }
+  .navbar-brand {
+    color: white !important;
+    }
+    
+    .footer{
+        display: flex !important;
+          background-color: #343a40	!important;
+          padding: 15px;
+      }
+      .empty{
+          margin-right: auto;
+      }
+      .card{
+          width: 325px !important;
+      }
+      .col-sm-6{
+          max-width: 350px !important;
+          padding: 0px !important;
+      }
+      .tel{
+          color: #5278b1 !important;
+      }
